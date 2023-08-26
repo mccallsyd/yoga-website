@@ -1143,7 +1143,7 @@ input, select, textarea {
 			-webkit-transition-delay: 0.75s;
 			-ms-transition-delay: 0.75s;
 			transition-delay: 0.75s;
-			background-image: linear-gradient(to top, rgba(19, 21, 25, 0.579), rgba(19, 21, 25, 0.689)), url("../../images/forest-two.jpg");
+			background-image: linear-gradient(to top, rgba(19, 21, 25, 0.579), rgba(19, 21, 25, 0.689)), url("../../images/forest.jpg");
 			background-size: cover;
 			background-position: center,
  center;
